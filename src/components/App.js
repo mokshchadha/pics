@@ -4,7 +4,7 @@ import SearchBar from "./SearchBar";
 const App = () => {
   return (
     <div className="ui container class">
-      <SearchBar></SearchBar>
+      <SearchBar />
     </div>
   );
 };
